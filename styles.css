@@ -62,7 +62,7 @@ section ul {
   flex-wrap: wrap;
 }
 
-.game-list img {
+.games-list img {
   width: 90px;
   border-radius: 8px;
 }
